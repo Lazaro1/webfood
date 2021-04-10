@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Lazaro1/webfood/static/css/main.fb06d6d9.chunk.css",
-    "main.js": "/Lazaro1/webfood/static/js/main.36d5ec2b.chunk.js",
-    "main.js.map": "/Lazaro1/webfood/static/js/main.36d5ec2b.chunk.js.map",
+    "main.js": "/Lazaro1/webfood/static/js/main.8e9a8ff9.chunk.js",
+    "main.js.map": "/Lazaro1/webfood/static/js/main.8e9a8ff9.chunk.js.map",
     "runtime-main.js": "/Lazaro1/webfood/static/js/runtime-main.12e049bb.js",
     "runtime-main.js.map": "/Lazaro1/webfood/static/js/runtime-main.12e049bb.js.map",
     "static/css/2.6f888578.chunk.css": "/Lazaro1/webfood/static/css/2.6f888578.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.6f888578.chunk.css",
     "static/js/2.6c384e97.chunk.js",
     "static/css/main.fb06d6d9.chunk.css",
-    "static/js/main.36d5ec2b.chunk.js"
+    "static/js/main.8e9a8ff9.chunk.js"
   ]
 }
