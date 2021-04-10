@@ -1,0 +1,15 @@
+.order-container form{
+    display: flex;
+    flex-direction: column;
+}
+
+.order-container input {
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.order-container .order-button{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 15px;
+}

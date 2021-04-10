@@ -1,0 +1,52 @@
+body {
+    
+    font-family: Roboto, Arial, sans-serif;
+  }
+
+  
+.products-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.products-container h1{
+    font-size: 32px;
+    letter-spacing: 1px;
+    margin: 20px 0;
+    color: #212529;
+}
+
+ 
+.products-container form {
+    margin: 20px 0;
+    background-color: white;
+    padding: 30px 25px;
+    border-radius: 5px;
+    border: solid 1px;
+  }
+  
+.products-container form .login-input {
+    margin-bottom: 20px;
+    margin-right: 15px;
+  }
+  
+   
+.products-container form .login-input input {
+    width: 100%;
+    display: block;
+    margin-top: 8px;
+    padding: 7px;
+    font-size: 16px;
+    color: #000000;
+    border-radius: 2px;
+    border: 1px solid #ccddef;
+    outline-color: #4a5f5b;
+}
+
+.products-container .order-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

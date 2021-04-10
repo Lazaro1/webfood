@@ -1,0 +1,47 @@
+.appbar-container{
+    background-color: #212529;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    
+    justify-content: space-between;
+}
+
+.appbar-container .logo-container {
+    display: flex;
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+
+    align-items: center;
+
+}
+
+
+.appbar-container .nav-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.appbar-container .addproduct-container{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.appbar-container .category-container{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.appbar-container .category-item{
+    margin: auto;
+    color: white;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+
