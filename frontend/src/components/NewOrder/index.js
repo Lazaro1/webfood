@@ -22,7 +22,7 @@ function Order(product) {
     return(
         <div className="order-container">
             <form>
-                <label>CEP {zipCode} </label>
+                <label>CEP </label>
                 <input type='text' placeholder='CEP' onChange={(e) => setZipCode(e.target.value)} />
                 <label>Bairro</label>
                 <input type='text' placeholder='Bairro' onChange={(e) => setDistrict(e.target.value)} />

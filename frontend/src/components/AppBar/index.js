@@ -1,19 +1,8 @@
-import { useState } from 'react';
-import { Link, useHistory } from 'react-router-dom'
-import { Button, ButtonGroup, ButtonToolbar, Modal } from 'rsuite';
-import Products from '../../pages/CreateProducts';
+import { Link } from 'react-router-dom'
 
 import './style.css'
 
 function AppBar() {
-
-    const history = useHistory();
-
-    const [open, setOpen] = useState(false);
-
-    const onOpenModal = () => setOpen(true);
-    const onCloseModal = () => setOpen(false);
-
     return (
         <div className="appbar-container">
             <Link className="logo-container" to="/">WEBFOOD</Link>

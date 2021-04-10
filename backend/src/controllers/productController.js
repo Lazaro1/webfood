@@ -25,6 +25,7 @@ const createproducts = async (req, res) => {
     }
 }
 
+
 const getAll = async (req,res) => {
     const result = await connection('products').select('*')
 
