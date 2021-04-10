@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webfood/static/css/main.6b089ce4.chunk.css",
-    "main.js": "/webfood/static/js/main.51d3d5af.chunk.js",
-    "main.js.map": "/webfood/static/js/main.51d3d5af.chunk.js.map",
+    "main.js": "/webfood/static/js/main.9a998e0c.chunk.js",
+    "main.js.map": "/webfood/static/js/main.9a998e0c.chunk.js.map",
     "runtime-main.js": "/webfood/static/js/runtime-main.93b01ee7.js",
     "runtime-main.js.map": "/webfood/static/js/runtime-main.93b01ee7.js.map",
     "static/css/2.6f888578.chunk.css": "/webfood/static/css/2.6f888578.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.6f888578.chunk.css",
     "static/js/2.be3598ed.chunk.js",
     "static/css/main.6b089ce4.chunk.css",
-    "static/js/main.51d3d5af.chunk.js"
+    "static/js/main.9a998e0c.chunk.js"
   ]
 }
