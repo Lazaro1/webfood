@@ -46,7 +46,7 @@ function Login() {
             const serverResponse = await api.post('/users', { name, email, password })
 
             if (serverResponse.data === true) {
-                history.push('/')
+                history.push('/webfood')
             } else {
                 alert(Error)
             }

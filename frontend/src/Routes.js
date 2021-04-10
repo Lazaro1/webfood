@@ -13,7 +13,7 @@ function Routes() {
         <BrowserRouter>
             <AppBar />
             <Switch>
-                <Route exact path="/" component={Home}/>
+                <Route exact path="/webfood" component={Home}/>
                 <Route exact path="/Login" component={Login}/>
                 <Route exact path="/Produtos" component={Products}/>
             </Switch>    
